@@ -1,5 +1,4 @@
-﻿//G2A223 長谷川　沙羅
-using System;
+﻿using System;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
