@@ -1,2 +1,0 @@
-gitURL
-https://github.com/20217003/HCSSportsForm.git
